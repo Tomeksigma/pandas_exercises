@@ -1,4 +1,4 @@
-This is the reposytorium for Tomek and Mateusz
+This is the reposytorium for Tomek Kisielewski and Mateusz Lachtara
 s203184, s203912
 # Pandas exercises
 ## [Exercise 1](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise%201.ipynb)
