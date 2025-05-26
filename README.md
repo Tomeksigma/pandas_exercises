@@ -9,3 +9,7 @@ s203184, s203912
 # Data Visualisation exercise
 ## [Exercise 5](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise%206.ipynb)
 ## [Exercise 6](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise%205.ipynb)
+# Univariate Analysis
+## [Exercise 8](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise8.ipynb)
+# Bivariate Analysis
+## [Exercise 9](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise9.ipynb)
