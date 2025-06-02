@@ -13,3 +13,5 @@ s203184, s203912
 ## [Exercise 8](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise8.ipynb)
 # Bivariate Analysis
 ## [Exercise 9](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise9.ipynb)
+# Multivariate Statistics
+## [Exercise 10](https://github.com/Tomeksigma/pandas_exercises/blob/main/Exercise10.ipynb)
